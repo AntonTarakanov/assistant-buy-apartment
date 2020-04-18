@@ -1,0 +1,1 @@
+# assistant-buy-apartment
